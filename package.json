@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"    
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +20,6 @@
     "mysql": "^2.18.1",
     "mysql2": "^3.11.3"
   },
-  "description": ""
+  "description": "This project consists of developing an E-commerce website. The subject is an online shop for candles with a pleasant aroma. The website has home, products, cart, checkout, login/registration and about.",
+  "devDependencies": {}
 }
